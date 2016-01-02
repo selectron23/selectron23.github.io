@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://selectron23.github.io
+title: selectron23
+paginate: 10
